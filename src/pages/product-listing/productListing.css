@@ -1,0 +1,13 @@
+.product-image-holder img {
+    height: 150px;
+    width: 100px;
+}
+
+.product-details p {
+    text-align: left;
+}
+
+.product-quantity-controls .quantity-label {
+    margin-right: 10px;
+    margin-left: 10px
+}
